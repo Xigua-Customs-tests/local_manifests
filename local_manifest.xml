@@ -2,7 +2,7 @@
 <manifest>
 
     <remote name="jorgeiba97"
-            fetch="https://github.com/xigua-custom-tests" />
+            fetch="https://github.com/Xigua-Customs-tests" />
 
     <!-- device tree deps-->
     <project path="device/oneplus/xigua" name="android_device_oneplus_xigua" revision="lineage-21" remote="jorgeiba97" />
