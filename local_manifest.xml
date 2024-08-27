@@ -7,9 +7,6 @@
     <!-- device tree deps-->
     <project path="device/oneplus/xigua" name="android_device_oneplus_xigua" revision="lineage-21" remote="jorgeiba97" />
 
-    <!-- Wtf is this. Why tf is this>
-    <project path="device/oneplus/aston-kernel" name="android_device_oneplus_xigua-kernel" revision="lineage-21" remote="jorgeiba97" /-->
-
     <!-- common tree -->
     <project path="device/oneplus/sm8550-common" name="android_device_oneplus_sm8550-common" revision="lineage-21" remote="jorgeiba97" />
 
